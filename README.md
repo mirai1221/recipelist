@@ -9,5 +9,5 @@
 2.アプリケーションで使っている技術
 
 
-・ER図　　
+### ER図
 <img width="529" alt="スクリーンショット 2021-02-13 0 19 48" src="https://user-images.githubusercontent.com/53572363/107786493-53e2f380-6d91-11eb-8f3a-0d0c6f988f25.png">
